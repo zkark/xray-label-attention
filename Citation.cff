@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "XRay-ML: Label-Attention ConvNeXt for Chest X-ray Diagnosis"
+authors:
+  - family-names: Soliman
+    given-names: Zain
+version: 1.0.0
+date-released: 2025-01-01
+license: MIT
